@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+header h1 {
+    text-shadow: 1px 1px 60px rgb(47, 0, 255);
+}
+header #finger-down {
+
+    animation: down-up 1.25s 0s infinite ease-in;
+}
+@keyframes down-up {
+    0% {
+        transform: translateY(-20px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}
