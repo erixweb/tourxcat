@@ -1,7 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+body {
+    font-size: 17px;
+    scroll-behavior: smooth;
+}
 header h1 {
     text-shadow: 1px 1px 60px rgb(47, 0, 255);
 }

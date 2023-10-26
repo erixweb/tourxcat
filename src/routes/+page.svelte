@@ -7,13 +7,20 @@
 <svelte:head>
 	<title>tourxcat</title>
 </svelte:head>
-<header class="flex justify-center items-center font-sans m-auto w-full max-w-[1050px] min-h-[100vh] relative mb-[40px] px-[20px]">
-	<h1 class="text-[50px] font-bold">
-		No et perdis en les vacances
-	</h1>
-	<a href="#llocs" id="finger-down" class="absolute bottom-10 text-[40px]">
-		👇
-	</a>
+<nav class="font-sans text-[20px] fixed top-0 left-0 w-full z-50">
+	<div class="w-full h-full relative py-[10px]">
+		<div class="w-full h-full absolute top-0 left-0 z-0 bg-slate-300/50"/>
+		<div class="m-auto p-[10px] w-full max-w-[1050px] flex gap-[20px] z-20 relative">
+			<a href="/">Inici</a>
+			<a href="/#llocs">Llocs</a>
+		</div>
+	</div>
+</nav>
+<header
+	class="flex justify-center items-center font-sans m-auto w-full max-w-[1050px] min-h-[100vh] relative mb-[40px] px-[20px]"
+>
+	<h1 class="text-[50px] font-bold">No et perdis en les vacances</h1>
+	<a href="#llocs" id="finger-down" class="absolute bottom-10 text-[40px]"> 👇 </a>
 </header>
 <main class="font-sans m-auto w-full max-w-[1050px]">
 	<section class="my-[20px] grid grid-cols-2 gap-[20px] w-full" id="llocs">
