@@ -12,7 +12,7 @@
 </svelte:head>
 <Nav />
 <HomeHeader />
-<main class=" m-auto w-full max-w-[1050px]">
+<main class=" m-auto w-full max-w-[1070px] px-[20px]">
 	<section class="my-[20px] w-full" id="llocs">
 		<h2 class="py-[20px] text-[35px] font-bold">
 			<span class=" text-cyan-600">Llocs</span> per visitar
