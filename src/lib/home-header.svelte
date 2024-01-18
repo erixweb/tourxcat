@@ -2,7 +2,7 @@
 	class="flex justify-center items-center font-sans m-auto w-full min-h-[100vh] relative mb-[40px] px-[20px] bg-slate-800"
 >
 	<img
-		src="https://www.guiarepsol.com/content/dam/repsol-guia/contenidos-imagenes/viajar/vamos-de-excursion/planes-vic-barcelona/gr-cms-media-featured_images-none-0f0590eb-7744-485e-8103-474156e8b86e-00-casino_vic84.jpg"
+		src="https://cdn.discordapp.com/attachments/1152239048220475516/1197618450592448512/foto_vic.webp"
 		alt="Imatge de Vic, Catalunya"
 		class="absolute top-0 left-0 z-[1] w-full object-cover h-full opacity-60"
 	/>
