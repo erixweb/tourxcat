@@ -27,11 +27,14 @@
 				title="Vacances a Malgrat de Mar, costa Brava"
 				description="Recomenable pels que volen pasar unes vancances a la costa Brava sense gastar molts diners."
 				image={`https://cdn.discordapp.com/attachments/1152239048220475516/1167127397859069952/malgrat.webp`}
+				region="Maresme"
 			/>
 			<Card
-				title="Vacances a Malgrat de Mar, costa Brava"
-				description="Recomenable pels que volen pasar unes vancances a la costa Brava sense gastar molts diners."
-				image={`https://cdn.discordapp.com/attachments/1152239048220475516/1167127397859069952/malgrat.webp`}
+
+				title="A fer compres a Badalona"
+				description="Si vius a prop de Barcelona, visita Badalona. Una ciutat amb una gran costa, muntanyes i l'edifici més conegut, el Magic."
+				image={`https://media.discordapp.net/attachments/1157390689068396625/1198264340520898600/rambla-de-badalona.webp`}
+				region="Barcelonès"
 			/>
 		</div>
 	</section>
