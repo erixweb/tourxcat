@@ -1,10 +1,10 @@
 <header
-	class="flex justify-center items-center font-sans m-auto w-full min-h-[100vh] relative mb-[40px] px-[20px] bg-slate-800"
+	class="flex justify-center items-center font-sans m-auto w-full min-h-[100vh] relative mb-[40px] px-[20px] bg-zinc-800"
 >
 	<img
-		src="https://cdn.discordapp.com/attachments/1152239048220475516/1197618450592448512/foto_vic.webp"
+		src="https://erixweb.github.io/images/tourxcat/barcelona-main.avif"
 		alt="Imatge de Vic, Catalunya"
-		class="absolute top-0 left-0 z-[1] w-full object-cover h-full opacity-60"
+		class="absolute top-0 left-0 z-[1] w-full object-cover h-full opacity-40"
 	/>
 	<div class="flex z-10 w-full max-w-[1050px] mt-[30px]">
 		<div class="z-[10] w-full max-w-[400px] text-start max-md:m-auto">

@@ -24,16 +24,16 @@
 		</div>
 		<div class="grid grid-cols-3 gap-[20px] w-full items-start place-items-start">
 			<Card
-				title="Vacances a Malgrat de Mar, costa Brava"
-				description="Recomenable pels que volen pasar unes vancances a la costa Brava sense gastar molts diners."
-				image={`https://cdn.discordapp.com/attachments/1152239048220475516/1167127397859069952/malgrat.webp`}
-				region="Maresme"
+				title="De visita per Girona"
+				description="Visita els llocs històrics de la ciutat i els carrers medievals de la ciutat."
+				image={`https://erixweb.github.io/images/tourxcat/girona.avif`}
+				region="Gironès"
 			/>
 			<Card
 
-				title="A fer compres a Badalona"
-				description="Si vius a prop de Barcelona, visita Badalona. Una ciutat amb una gran costa, muntanyes i l'edifici més conegut, el Magic."
-				image={`https://media.discordapp.net/attachments/1157390689068396625/1198264340520898600/rambla-de-badalona.webp`}
+			description="Visita Cadaqués, un lloc amb unes platjes increïbles i un paisatge marevellós."
+			title="Cadaqués, per anar a la platja"
+				image={`https://erixweb.github.io/images/tourxcat/cadaques-main.avif`}
 				region="Barcelonès"
 			/>
 		</div>
